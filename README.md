@@ -231,16 +231,16 @@ Create New Group
 Group Details
 
 ![Screenshot 2024-08-30 164520](https://github.com/user-attachments/assets/4680c606-73de-4643-b402-febb37d6b134)
-ChatWave Dashboard Showing Statistics using Line Chart
+Find People for Chat
 
 ![Screenshot 2024-08-30 165130](https://github.com/user-attachments/assets/50f26c76-6387-475a-9521-0a9c6705d557)
-ChatWave Dashboard Showing Statistics of Last Messages
+ChatWave Dashboard Showing Statistics using Line Chart
 
 ![Screenshot 2024-08-30 165158](https://github.com/user-attachments/assets/23260062-483e-4962-b6dd-1fe85854dbb0)
-ChatWave Dashboard Showing All Users
+ChatWave Dashboard Showing Statistics of Last Messages
 
 ![Screenshot 2024-08-30 165212](https://github.com/user-attachments/assets/dcaf544c-6cf5-4818-9fd4-d1ebbd5d3f72)
-
+ChatWave Dashboard Showing All Users
 
 
 
