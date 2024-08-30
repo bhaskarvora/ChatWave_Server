@@ -11,7 +11,7 @@ I am a self motivated and versatile individual, always eager to take on new chal
 # Features
 
 -   **User Authentication**: Secure login and registration with JWT-based authentication.
--   **Real-Time Chat**: Real-time messaging in both individual and group chats.
+-   **Real-Time Chat**: Real-time messaging in both individual and group chats wherwhere we can attach images, audio, videos and any other files.
 -   **User Management**: Admins can manage user accounts and chat history.
 -   **Group Management**: Users can create and manage group chats.
 -   **Message Management**: View, delete, and manage chat messages.
