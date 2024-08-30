@@ -227,7 +227,7 @@ Messaging Example We can share any image, audio, video or files
 ![Screenshot 2024-08-30 164148](https://github.com/user-attachments/assets/648cf0d9-18f2-4ed7-a341-9b3d60beef0f)
 Create New Group 
 
-![Screenshot 2024-08-30 164444](https://github.com/user-attachments/assets/dd093ce7-d12c-412a-9114-8b64445e7dab
+![Screenshot 2024-08-30 164444](https://github.com/user-attachments/assets/dd093ce7-d12c-412a-9114-8b64445e7dab)
 Group Details
 
 ![Screenshot 2024-08-30 164520](https://github.com/user-attachments/assets/4680c606-73de-4643-b402-febb37d6b134)
