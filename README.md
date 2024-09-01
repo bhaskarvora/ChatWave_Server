@@ -8,6 +8,9 @@ I am a self motivated and versatile individual, always eager to take on new chal
 
 **ChatWave** is a modern chat application that enables real-time messaging between users. It offers features for user authentication, chat rooms, private messaging, and administrative controls for managing users and messages. This application provides a seamless user experience with modern design and real-time updates.
 
+# ChatWave Frontend Code
+https://github.com/bhaskarvora/ChatWave_Frontend
+
 # Features
 
 -   **User Authentication**: Secure login and registration with JWT-based authentication.
