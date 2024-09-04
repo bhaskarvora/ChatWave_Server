@@ -18,7 +18,7 @@ https://github.com/bhaskarvora/ChatWave_Frontend
 -   **User Management**: Admins can manage user accounts and chat history.
 -   **Group Management**: Users can create and manage group chats.
 -   **Message Management**: View, delete, and manage chat messages.
--   **Responsive Design**: Optimized for both desktop and mobile use.
+- 
 
 
 ### Server-Side Architecture Overview
